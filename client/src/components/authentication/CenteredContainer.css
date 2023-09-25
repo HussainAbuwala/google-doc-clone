@@ -1,0 +1,11 @@
+.centered-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.child-container{
+    width: 100%
+}
+
