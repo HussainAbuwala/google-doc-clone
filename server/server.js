@@ -11,7 +11,7 @@ const port = 5000;
 const httpServer = createServer();
 const io = new Server(httpServer, {
    cors: {
-      origin: process.env.CLIENT_URL,
+      origin: '*',
       methods: ["GET", "POST"],
    },
 });
