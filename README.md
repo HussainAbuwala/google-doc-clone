@@ -2,7 +2,7 @@
 
 Are you tired of traditional document editing tools that lack transparency when it comes to tracking user contributions? Look no further! **DocClone** is here to revolutionize the way you create and collaborate on documents.
 
-![Screen Recording 2023-09-25 at 9 50 22 AM](https://github.com/HussainAbuwala/google-doc-clone/assets/77569166/cc098e86-7300-4977-8497-5521eb52a95b)
+![Screen Recording 2023-09-25 at 10 35 27 AM](https://github.com/HussainAbuwala/google-doc-clone/assets/77569166/df7ba44a-09b7-4585-a6f7-52f284d42b23)
 
 ## Streamlined Document Creation
 DocClone offers a seamless experience, allowing you to start with a blank canvas or jumpstart your project with pre-designed templates such as resumes, letters, and project proposals. Say goodbye to the hassle of formatting from scratch – we've got you covered.
