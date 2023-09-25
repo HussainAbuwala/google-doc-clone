@@ -4,6 +4,9 @@ Are you tired of traditional document editing tools that lack transparency when 
 
 ![Screen Recording 2023-09-25 at 10 35 27 AM](https://github.com/HussainAbuwala/google-doc-clone/assets/77569166/eae706a1-efb7-419a-bce0-72feff42e590)
 
+![Screen Recording 2023-09-25 at 10 37 26 AM](https://github.com/HussainAbuwala/google-doc-clone/assets/77569166/59f03ba5-8623-4963-8130-b8e85a35b9a8)
+
+
 ## Streamlined Document Creation
 DocClone offers a seamless experience, allowing you to start with a blank canvas or jumpstart your project with pre-designed templates such as resumes, letters, and project proposals. Say goodbye to the hassle of formatting from scratch – we've got you covered.
 
